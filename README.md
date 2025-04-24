@@ -19,7 +19,7 @@
 ### API Endpoints
 - Upload Excel File 
 <pre> http://localhost:8080/api/v1/upload </pre>
-- Get All Users
+- Get All Customers
 <pre> http://localhost:8080/api/v1/list </pre>
 
 ### Access H2 Console
@@ -27,3 +27,13 @@
 - JDBC URL: jdbc:h2:mem:testdb
 - Username: sa
 - Password: (no password)
+
+### API Response via Postman
+- Upload Excel File
+![post-api-upload](https://github.com/user-attachments/assets/207ad4d8-486d-4c8e-a8b0-d815983d5426)
+- Get All Customers
+![get-List](https://github.com/user-attachments/assets/f89d7135-ef7b-4e7e-ab48-51244f3860e4)
+
+
+
+  
